@@ -5,13 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "",
-    authDomain: "avalon-db.firebaseapp.com",
-    databaseURL: "https://avalon-db.firebaseio.com",
-    projectId: "avalon-db",
-    storageBucket: "avalon-db.appspot.com",
-    messagingSenderId: "545284632475",
-    appId: "1:545284632475:web:d18e7f31be19e779"
+    apiKey: "AIzaSyAoEqfqehUJZPTpBU2NRiu-mrS-ki3lP5g",
+    authDomain: "avalon-db-2.firebaseapp.com",
+    databaseURL: "https://avalon-db-2.firebaseio.com",
+    projectId: "avalon-db-2",
+    storageBucket: "avalon-db-2.appspot.com",
+    messagingSenderId: "931868302977",
+    appId: "1:931868302977:web:aa6cc00a7a1d3793fbf780",
+    measurementId: "G-QKP004N42T"
   }
 };
 
